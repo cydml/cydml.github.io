@@ -7,7 +7,7 @@ author: Leo Franklin # Add name author (optional)
 ---
 
 $$
-\sum_x^2
+\sum_x^2 = 
 $$
 
 
