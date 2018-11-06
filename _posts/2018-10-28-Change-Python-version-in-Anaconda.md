@@ -6,9 +6,7 @@ tags: [Python,data science]
 author: Leo Franklin # Add name author (optional)
 ---
 
-$$
-\sum_x^2 = 
-$$
+
 
 
 现在我向大家演示如何在Anaconda3上如何设置python2和python3版本共存，并且如何在两者之间切换
