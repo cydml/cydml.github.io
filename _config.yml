@@ -6,6 +6,7 @@ permalink: ':title/'
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "cydshare.top" # the base hostname & protocol for your site, e.g. http://example.com
 
+
 # Author settings
 author: Leo Franklin # add your name
 author-pic: face.jpg
