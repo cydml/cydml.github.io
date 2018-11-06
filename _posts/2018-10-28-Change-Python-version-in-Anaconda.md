@@ -1,13 +1,12 @@
 ---
 layout: post
 title: Change Python version in Anaconda
-img: sparclogo.jpg # Add image post (optional)
+img: home-bg-o.jpg # Add image post (optional)
 tags: [Python,data science]
 author: Leo Franklin # Add name author (optional)
 
 ---
 
----
 
 
 
