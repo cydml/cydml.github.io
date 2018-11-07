@@ -1,4 +1,4 @@
-title: Leo Franklin's blog
+title: Leo Franklin
 email: 1115223619@qq.com
 description: > # this means to ignore newlines until "baseurl:"
   .
@@ -10,7 +10,7 @@ url: "cydshare.top" # the base hostname & protocol for your site, e.g. http://ex
 # Author settings
 author: Leo Franklin # add your name
 author-pic: face.jpg
-about-author: An undergraduate of shenzhen university.
+about-author: An undergraduate of Shenzhen university.
 
 # Contact links
 email: 1115223619@qq.com # Add your Email address
@@ -20,7 +20,7 @@ linkedin: # Add your Linkedin handle
 github: marktext # Add your Github handle
 twitter:  # Add your Twitter handle
 facebook: # Add your Facebook handle
-instagram: # Add your Instagram handle
+instagram: leozhishui# Add your Instagram handle
 pinterest: # Add your Pinterest handle
 
 # Newsletter
